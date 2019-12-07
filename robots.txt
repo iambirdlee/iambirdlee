@@ -1,7 +1,7 @@
 User-agent: *
 Disallow: 
 
-User-agent: AdsBot-Google 
+User-agent: AdsBot-Google
 Allow: /maps/api/js?
 Allow: /maps/api/js/
 Allow: /maps/api/place/js/
