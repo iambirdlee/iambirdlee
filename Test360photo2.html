@@ -9,21 +9,23 @@
 
     </head>
 <body>
-<div id='vrview'>
-<iframe src="R0010001.jpg">
-</iframe>
-
-</div>
+<div id='vrview'></div>
 <script>
 window.addEventListener('load', onVrViewLoad);
 
 function onVrViewLoad() {
   // Selector '#vrview' finds element with id 'vrview'.
   var vrView = new VRView.Player('#vrview', {
-    image: 'https://iambirdlee.gq/R0010001.jpg',
+    image: 'R0010001.jpg',
     is_stereo: true
   });
 }
+
+// Selector '#vrview' finds element with id 'vrview'.
+var vrView = new VRView.Player('#vrview', {
+  image: 'R0010001.jpg',
+  is_stereo: true
+});
 </script>
 
 </body>
