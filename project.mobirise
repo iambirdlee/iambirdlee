@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "I am Bird Lee | Creative Design & Digital Content Advertiser",
-    "currentPage": "contact.html",
+    "currentPage": "work.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -49,12 +49,12 @@
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-for-favicon-round-01-128x128.png",
     "noImageResize": true,
-    "siteUrl": "https://iambirdlee.gq/",
+    "siteUrl": "https://iambirdlee.gq",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-152633536-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-152633536-1');\r\n</script>",
-    "robotsText": "User-agent: *\nDisallow: \n\nUser-agent: AdsBot-Google\nAllow: /maps/api/js?\nAllow: /maps/api/js/\nAllow: /maps/api/place/js/\nAllow: /maps/api/staticmap?\nAllow: /maps/api/streetview?\nAllow: /maps/api/streetview/\n\nUser-agent: *\nAllow: /maps/api/js?\nAllow: /maps/api/js/\nAllow: /maps/api/place/js/\nAllow: /maps/api/staticmap?\nAllow: /maps/api/streetview?\nAllow: /maps/api/streetview/",
-    "robotsSwitcher": "on",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "sitemapSwitcher": "on",
+    "sitemapSwitcher": true,
     "cookiesAlert": false,
     "gdpr": false
   },
