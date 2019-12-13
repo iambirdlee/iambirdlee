@@ -51,9 +51,9 @@
     "noImageResize": true,
     "siteUrl": "https://iambirdlee.gq",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-152633536-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-152633536-1');\r\n</script>",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n\n",
     "robotsSwitcher": true,
-    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcherAuto": false,
     "sitemapSwitcher": true,
     "cookiesAlert": false,
     "gdpr": false
