@@ -1,39 +1,166 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>https://iambirdlee.gq/en/index.html</loc>
-<xhtml:link 
-               rel="alternate"
-               hreflang="en"
-               href="https://iambirdlee.gq/en/index.html"/>
-	</url>
-	<url>
-		<loc>https://iambirdlee.gq/en/about.html</loc>
-<xhtml:link 
-               rel="alternate"
-               hreflang="en"
-               href="https://iambirdlee.gq/en/about.html"/>
-	</url>
-	<url>
-		<loc>https://iambirdlee.gq/en/work.html</loc>
-<xhtml:link 
-               rel="alternate"
-               hreflang="en"
-               href="https://iambirdlee.gq/en/work.html"/>
-	</url>
-	<url>
-		<loc>https://iambirdlee.gq/en/tnc.html</loc>
-<xhtml:link 
-               rel="alternate"
-               hreflang="en"
-               href="https://iambirdlee.gq/en/tnc.html"/>
-	</url>
-	<url>
-		<loc>https://iambirdlee.gq/en/contact.html</loc>
-<xhtml:link 
-               rel="alternate"
-               hreflang="en"
-               href="https://iambirdlee.gq/en/contact.html"/>
-	</url>
+<url>
+  <loc>https://iambirdlee.gq/</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/index.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/about.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/work.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/contact.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/my/</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/tnc.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/Cat%20Shop/</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/EBook/</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/Sample%20restaurant/</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/Ticket%20Counter/</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/ZulNabila/</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/360VREnvironment/</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/my/index.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/my/about.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/my/work.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/my/contact.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/my/tnc.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/Cat%20Shop/index.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/EBook/index.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/Sample%20restaurant/index.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/Ticket%20Counter/index.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/360VREnvironment/index.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/360VREnvironment/1.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/360VREnvironment/2.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/360VREnvironment/3.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/360VREnvironment/4.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/360VREnvironment/5.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/360VREnvironment/6.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/360VREnvironment/7.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/360VREnvironment/8.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/360VREnvironment/9.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/360VREnvironment/10.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/my/Cat%20Shop/</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/my/Sample%20restaurant/</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/my/Ticket%20Counter/</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/my/AllishaArmizi/</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/my/360VREnvironment/</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/my/Cat%20Shop/index.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/my/Sample%20restaurant/index.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/my/Ticket%20Counter/index.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/my/360VREnvironment/index.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/my/360VREnvironment/1.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/my/360VREnvironment/2.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/my/360VREnvironment/3.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/my/360VREnvironment/4.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/my/360VREnvironment/5.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/my/360VREnvironment/6.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/my/360VREnvironment/7.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/my/360VREnvironment/8.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/my/360VREnvironment/9.html</loc>
+</url>
+<url>
+  <loc>https://iambirdlee.gq/websample/my/360VREnvironment/10.html</loc>
+</url>
+
+
 </urlset>
