@@ -1,39 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://iambirdlee.gq/index.html</loc>
+		<loc>https://iambirdlee.gq/en/index.html</loc>
 <xhtml:link 
                rel="alternate"
                hreflang="en"
-               href="https://iambirdlee.gq/index.html"/>
+               href="https://iambirdlee.gq/en/index.html"/>
 	</url>
 	<url>
-		<loc>https://iambirdlee.gq/about.html</loc>
+		<loc>https://iambirdlee.gq/en/about.html</loc>
 <xhtml:link 
                rel="alternate"
                hreflang="en"
-               href="https://iambirdlee.gq/about.html"/>
+               href="https://iambirdlee.gq/en/about.html"/>
 	</url>
 	<url>
-		<loc>https://iambirdlee.gq/work.html</loc>
+		<loc>https://iambirdlee.gq/en/work.html</loc>
 <xhtml:link 
                rel="alternate"
                hreflang="en"
-               href="https://iambirdlee.gq/work.html"/>
+               href="https://iambirdlee.gq/en/work.html"/>
 	</url>
 	<url>
-		<loc>https://iambirdlee.gq/tnc.html</loc>
+		<loc>https://iambirdlee.gq/en/tnc.html</loc>
 <xhtml:link 
                rel="alternate"
                hreflang="en"
-               href="https://iambirdlee.gq/tnc.html"/>
+               href="https://iambirdlee.gq/en/tnc.html"/>
 	</url>
 	<url>
-		<loc>https://iambirdlee.gq/contact.html</loc>
+		<loc>https://iambirdlee.gq/en/contact.html</loc>
 <xhtml:link 
                rel="alternate"
                hreflang="en"
-               href="https://iambirdlee.gq/contact.html"/>
+               href="https://iambirdlee.gq/en/contact.html"/>
 	</url>
 </urlset>
