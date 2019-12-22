@@ -14,7 +14,7 @@ https://iambirdlee.gq/selected 360 photo/early-midday-desert-hdri-sky-01.jpg
 
 https://iambirdlee.gq/selected 360 photo/HDRI_Studio.jpg
 
-
+<iframe width="100%" height="100%" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//iambirdlee.gq/selected%20360%20photo/HDRI_Studio.jpg&autoLoad=true"></iframe>
 
 
 
@@ -28,7 +28,15 @@ https://iambirdlee.gq/selected 360 photo/hotel_room.jpg
 
 https://iambirdlee.gq/selected 360 photo/MountainTop.jpg
 
+<iframe width="100%" height="100%" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//iambirdlee.gq/selected%20360%20photo/MountainTop.jpg&autoLoad=true"></iframe>
+
+
+
 https://iambirdlee.gq/selected 360 photo/CityView.jpg
+
+<iframe width="100%" height="100%" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//iambirdlee.gq/selected%20360%20photo/CityView.jpg&autoLoad=true"></iframe>
+
+
 
 https://iambirdlee.gq/selected 360 photo/prophet Muhammad's SAW house replica.jpg
 
@@ -41,6 +49,8 @@ https://iambirdlee.gq/selected 360 photo/R0010540.jpg
 
 https://iambirdlee.gq/selected 360 photo/Sireh Park Johor.jpg
 
+<iframe width="100%" height="100%" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//iambirdlee.gq/selected%20360%20photo/Sireh%20Park%20Johor.jpg&autoLoad=true"></iframe>
 
 
-https://iambirdlee.gq/selected 360 photo/steamworkshop_webupload_previewfile_376683463_preview.jpg
+
+https://iambirdlee.gq/selected 360 photo/purple_space.jpg
